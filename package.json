@@ -1,0 +1,19 @@
+{
+  "name": "rpt",
+  "version": "0.0.0",
+  "description": "small webapp to train my memeory on any topics. Entirely built feom my Android phone !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coffee-mug/rpt.git"
+  },
+  "author": "LK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coffee-mug/rpt/issues"
+  },
+  "homepage": "https://github.com/coffee-mug/rpt#readme"
+}
